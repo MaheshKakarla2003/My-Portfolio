@@ -23,6 +23,7 @@
 
     .navbar ul {
         gap: 1rem;
+       display:none;
     }
 
     /* HERO: stack and center content; hide hero profile image */
