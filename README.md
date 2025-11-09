@@ -3,16 +3,18 @@
 Welcome to my **personal portfolio website**!  
 This project showcases my journey as a **Backend Developer**, my **skills**, **projects**, and the **technologies** I’ve learned — all wrapped in a clean, fully responsive design.
 
-**Live Demo:**  
-🔗 https://maheshkakarla2003.github.io/My-Portfolio/
----
+**Live Demo:** 
+🔗[ https://maheshkakarla2003.github.io/My-Portfolio/]
 ## 🧰 Technologies Used
 
 - **HTML5** — for semantic and structured web layout  
 - **CSS3** — for styling, animations, and responsive design  
 - **Media Queries** — to make the site fully mobile & tablet friendly  
-- **JavaScript ** — for interactivity and smooth scrolling 
----
+- **JavaScript ** — for interactivity and smooth scrolling
+
+
+<img width="1886" height="850" alt="portfolio-screenshot" src="https://github.com/user-attachments/assets/3b07f2dd-bf95-48e8-9312-0de4137e244d" />
+
 ## 📁 Project Structure
 My-Portfolio/
 │
@@ -28,7 +30,7 @@ My-Portfolio/
 │ └── ...
 │
 └── README.md # You’re reading it now
----
+
 
 ## 📖 Sections Overview
 
@@ -57,7 +59,7 @@ My-Portfolio/
   - 📧 Email (`mailto:` link)
   - 💬 WhatsApp
   - 🔗 LinkedIn / GitHub
----
+
 ## 📱 Responsive Design Details
 
 The website supports all major device sizes:
