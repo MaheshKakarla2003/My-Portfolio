@@ -170,6 +170,7 @@
     }
 
     .navbar ul {
+        display: none;
         gap: 1.4rem;
     }
 
