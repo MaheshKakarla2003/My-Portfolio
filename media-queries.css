@@ -17,11 +17,13 @@
     }
 
     .navbar {
+
         padding: 1rem 1rem;
         font-size: 1.9rem;
     }
 
     .navbar ul {
+        display: none;
         gap: 1rem;
     }
 
